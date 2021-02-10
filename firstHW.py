@@ -111,4 +111,3 @@
 #     if start_Training >= stop_Training:
 #         print(f'На {i+1} день спортсмен достиг результата - не менее {stop_Training} км.')
 
-
